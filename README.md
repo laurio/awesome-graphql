@@ -247,6 +247,7 @@ If you want to contribute to this list (please do), send me a pull request.
 <a name="lib-clojure" />
 ### Clojure Libraries
 
+* [alumbra](https://github.com/alumbra/alumbra) - Simple & Elegant GraphQL for Clojure.
 * [graphql-clj](https://github.com/tendant/graphql-clj) - A Clojure library designed to provide GraphQL implementation.
 * [lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure.
 
